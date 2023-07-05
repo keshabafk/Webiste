@@ -1,8 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+capcon_website/__pycache__/
+home/__pycache__/
+home/migrations/__pycache__/
+
+
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
